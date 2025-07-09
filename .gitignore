@@ -161,3 +161,10 @@ cython_debug/
 
 .ruff_cache/
 *.zip
+
+
+cs336_basics/results/
+cs336_basics/wandb
+data/
+.vscode/
+.DS_Store
